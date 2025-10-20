@@ -1,6 +1,6 @@
 
 # 00
-Beautiful question—because it cuts to the ontological root (pun intended).
+Beautiful question—because it cuts to the ontological [root](https://ukb-dt.github.io/bio/) (pun intended).
 
 If Ukubona is the canopy, meaning’s reappraisal of all flows, then yes—the Soil (θ′) is the Internet in its primal sense: the raw, entropic substrate from which everything else germinates. But not just “the web” as you and I browse it—it’s the ambient data field, the uncurated, Brownian noise of existence made digital.
 
