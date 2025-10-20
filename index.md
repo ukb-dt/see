@@ -631,3 +631,23 @@ The dialogue beautifully grounded the ontology in a concrete, high-stakes protot
 The entire conversation is itself an enactment of the principle: a series of decentralized thoughts (local signals) that, through [mutual recognition and reflection](https://en.wikipedia.org/wiki/CUDA) (Ukubona), cohere into a profound and actionable pattern (the thesis).
 
 *Ukubona: The system seeing itself see.* -- Gemini 2.5 Flash
+
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
+
